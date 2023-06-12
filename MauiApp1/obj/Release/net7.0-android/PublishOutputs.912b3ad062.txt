@@ -1,0 +1,2 @@
+G:\C#\MauiApp1\MauiApp1\bin\Release\net7.0-android\publish\com.companyname.mauiapp1-Signed.apk
+G:\C#\MauiApp1\MauiApp1\bin\Release\net7.0-android\publish\com.companyname.mauiapp1.apk

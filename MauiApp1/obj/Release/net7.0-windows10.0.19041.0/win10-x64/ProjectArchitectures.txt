@@ -1,0 +1,2 @@
+G:\C#\MauiApp1\MauiApp1\MauiApp1.csproj;x64
+G:\C#\RoadsApp2\Maui.Controls.BottomSheet\Maui.Controls.BottomSheet\Maui.Controls.BottomSheet.csproj;neutral
